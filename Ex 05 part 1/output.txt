@@ -1,0 +1,7 @@
+Hello, I am Suhana!
+I love to do DSA
+which is nothing but data structures and algorithms
+I also do love to make websites
+I am an MERN stack developer
+thats all things i love to do
+in my free time!!

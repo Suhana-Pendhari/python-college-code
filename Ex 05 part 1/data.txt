@@ -1,0 +1,5 @@
+Hello,
+I am Suhana
+From TY CSE division B
+This is my first question of python ex 05
+Bye bye!!

@@ -1,0 +1,3 @@
+Hello, this is a demo of the with keyword.
+It ensures the file is properly closed automatically.
+-----By Suhana the Coder
