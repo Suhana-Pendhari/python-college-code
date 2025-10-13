@@ -1,0 +1,16 @@
+Order_ID,Customer,Order_Amount,Product,Order_Date
+ORD001,John Smith,150.50,Smartphone,2024-01-15
+ORD002,Emma Wilson,45.25,Headphones,2024-01-16
+ORD003,Michael Brown,899.99,Laptop,2024-01-17
+ORD004,Sarah Davis,29.99,Book,2024-01-18
+ORD005,Robert Johnson,324.75,Tablet,2024-01-19
+ORD006,Lisa Miller,78.40,Smartwatch,2024-01-20
+ORD007,David Wilson,1200.00,Gaming Console,2024-01-21
+ORD008,Maria Garcia,55.60,Bluetooth Speaker,2024-01-22
+ORD009,James Anderson,199.99,Camera,2024-01-23
+ORD010,Jennifer Lee,45.25,Phone Case,2024-01-24
+ORD011,Thomas Clark,650.00,TV,2024-01-25
+ORD012,Michelle Lee,89.99,Keyboard,2024-01-26
+ORD013,Kevin Martin,1500.75,MacBook Pro,2024-01-27
+ORD014,Amanda Scott,34.99,Mouse,2024-01-28
+ORD015,Daniel White,225.30,Tablet Stand,2024-01-29

@@ -1,0 +1,11 @@
+Flight ID,Departure,Arrival,Delay
+F001,New York,London,15
+F002,London,Paris,-5
+F003,Paris,Dubai,120
+F004,Dubai,Singapore,0
+F005,Singapore,Tokyo,45
+F006,Tokyo,Sydney,-10
+F007,Sydney,Los Angeles,180
+F008,Los Angeles,Chicago,30
+F009,Chicago,Miami,-15
+F010,Miami,New York,60
