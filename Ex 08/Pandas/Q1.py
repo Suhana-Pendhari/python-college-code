@@ -3,7 +3,6 @@
 # and Disease. Load the dataset and display the first 5 and last 5 patients admitted.
 
 import pandas as pd
-import matplotlib.pyplot as plt
 
 df = pd.read_csv('./Data/Patients.csv')
 
